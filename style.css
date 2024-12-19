@@ -4,10 +4,15 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.title {
     background-color: lightgreen;
     color: darkblue;
     font-weight: 800;
+    text-align: center;
+}
+
+.subsection {
+    margin-left: 50px;
 }
 
 img {
